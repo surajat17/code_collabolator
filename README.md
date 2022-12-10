@@ -24,9 +24,6 @@ This is very necessary in this era of pandemic where even education is being pus
 
 **Server:** Node, MongoDB, Socket.io
 
-* Real Time usage of the project : 
-
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
